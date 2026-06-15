@@ -1,0 +1,22 @@
+ 2 git status                                                                                                     
+   3 ls                                                                                                             
+   4 ls -l                                                                                                          
+   5 clear                                                                                                        
+   6 python hello.py                                                                                                
+   7 clear                                                                                                          
+   8 git init                                                                                                       
+   9 git status                                                                                                     
+  10 git add hello.py                                                                                               
+  11 git status                                                                                                     
+  12 git commit -m "simple print"                                                                                   
+  13 git status                                                                                                     
+  14 git log                                                                                                        
+  15 rm hello.py                                                                                                    
+  16 git status                                                                                                     
+  17 git restore hello.py                                                                                           
+  18 git status
+  git remote set-url origin https://pat@github.com/username and projectname
+  git remote add origin
+  git remote -v
+  git push origin master
+  
